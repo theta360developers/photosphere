@@ -118,3 +118,13 @@ I assume that common items such as screws and glue (pvc, silicone) are available
 </tr>
 </tbody>
 </table>
+
+---
+
+NOTE: Information below added by theta360developers
+
+Information on the WiFi and USB APIs is available in the [Unofficial API Guide](http://codetricity.github.io/theta-s/index.html).
+
+Discussion for this project is available on the [community.theta360.guide](http://lists.theta360.guide/t/live-leaf-peeping-digital-repeat-photography/507?u=codetricity) site.
+
+General discussion on USB API usage for the RICOH THETA is available in [this topic](http://lists.theta360.guide/t/ricoh-theta-s-api-over-usb-cable/65?u=codetricity).
