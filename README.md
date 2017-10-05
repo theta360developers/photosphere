@@ -1,6 +1,6 @@
 # Photosphere
 
-The photosphere project combines a Rico Theta S and a raspberry pi with a custom outdoor housing into a rugged 360 (outdoor) time-lapse camera. In my application I track changes in leaf development in a North-Eastern US forest. You can visit the project website at http://virtualforest.io. However, other applications are possible (hints on how to do nighttime images through the USB API are welcome).
+The photosphere project combines a Ricoh Theta S and a raspberry pi with a custom outdoor housing into a rugged 360 (outdoor) time-lapse camera. In my application I track changes in leaf development in a North-Eastern US forest. You can visit the project website at http://virtualforest.io. However, other applications are possible (hints on how to do nighttime images through the USB API are welcome).
 
 NOTE from community:
    For information on night images using an external LUX meter, see [tlapser](https://github.com/theta360developers/tlapser360)
